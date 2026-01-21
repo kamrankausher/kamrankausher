@@ -50,6 +50,15 @@ My focus is on **practical problem-solving**, **clean engineering practices**, a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 📜 Certifications
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- AWS Cloud Practitioner Essentials
+- AWS SimuLearn: Cloud Computing Essentials
+- Data Science Job Simulation — Commonwealth Bank (Forage)
+- Machine Learning with AI — Internshala Trainings
+- Python: From Basic to Advanced — Udemy
+
+
 
 
 ## 📫 Connect With Me
