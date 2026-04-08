@@ -36,7 +36,7 @@ I specialize in translating complex model outputs into explainable, business-rea
 
 ### 🌟 Core Philosophy
 - **🧠 Architecture First:** I emphasize maintainable, robust pipelines and cleanly structured code over ad-hoc scripts.
-- **⚡ Explainable AI:** Proven ability to integrate frameworks like SHAP to convert "black box" algorithms into clear, human-readable logic for enterprise stakeholders.
+- **⚡ Generative AI Pioneer:**  Deep, practical expertise in deploying RAG systems, vector embeddings, and semantic LLMs.
 - **🚀 Data to Deployment:** Expert at orchestrating scalable deployments using modern orchestration tools to bring AI from Jupyter notebooks into production-ready cloud environments.
 
 
