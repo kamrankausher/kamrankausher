@@ -139,23 +139,42 @@ I specialize in translating complex model outputs into explainable, business-rea
 
 ## 🚀 Projects
 
-
-**1. AI Customer Retention Intelligence System**
-- Built a Decision Intelligence ML system predicting churn risk and generating **SHAP-based Explainable AI** recommendations for business teams across 3 risk tiers.
-- Formulated a sophisticated rule-based risk scoring engine integrated into an interactive prediction system.
-- **Tech:** Python, scikit-learn, SHAP, FastAPI, Streamlit, Seaborn.
-
-
-**2. Telecom Customer Churn Prediction Pipeline**
-- Developed an end-to-end classification pipeline detailing churn dynamics over 7,000+ records, achieving **80% accuracy** and a strong ROC-AUC score.
-- Deployed real-time predictions via a robust **FastAPI REST API**, ensuring high-availability decision support.
-- **Tech:** Pandas, scikit-learn, Matplotlib, FastAPI, joblib.
+**1. Stock Price Prediction Dashboard**
+- Built and deployed an end-to-end ML-based stock prediction system achieving R² ≈ 0.89, covering data pipeline, feature engineering, and real-time inference.
+- Developed a real-time interactive dashboard using Streamlit and yfinance, enabling trend analysis and actionable insights with technical indicators.
+- Engineered a modular, production-ready ML pipeline and deployed it on cloud, demonstrating full-stack ML system design from model to user interface.
+- **Tech:** Python, Scikit-learn, NumPy, Pandas, Streamlit, yfinance.
 
 
-**3. Real Estate Price Estimation Engine**
-- Engineered a high-precision regression architecture achieving an **R² of 0.92**, and deeply minimized error variance (MAE of 80K) on unseen data.
-- Enforced strict preprocessing workflows guaranteeing zero data leakage before scaling inference to the web.
-- **Tech:** Scikit-learn, NumPy, Pandas, Streamlit.
+**2. Customer Retention Powered by Multi-Agent AI Orchestration**
+- Engineered an autonomous, multi-agent AI customer retention platform by orchestrating a 5-node LangGraph pipeline with FastAPI, automating risk assessment, policy strategy, and personalized client generation.
+- Integrated Explainable AI (XAI) within LLM workflows, utilizing XGBoost and SHAP to mathematically extract churn drivers, eliminating "black box" logic and increasing strategy formulation precision via Groq’s LLaMA 3.3.
+- Developed and deployed a production-ready, full-stack architecture, featuring an event-driven FastAPI backend on Render and a premium React/Framer Motion analytics dashboard on Vercel for real-time visualization.
+- **Tech:** Python, LangGraph, Groq API (LLaMA 3), FastAPI, XGBoost, SHAP, React.js (Vite), Framer Motion, Pandas, Scikit-learn, Render, Vercel
+  
+  
+**3. AI Customer Retention Intelligence System by Using Generative Ai**
+- Built a Decision Intelligence ML system to assess customer churn risk and generate explainable retention recommendations, covering 3 risk tiers: LOW, 
+MEDIUM, and HIGH..
+-  Designed a rule-based risk scoring engine (0-1 scale) integrated with SHAP-based Explainable AI, enabling business teams to act on model 
+predictions with clear, human-readable reasoning.
+- Validated system consistency across 10+ realistic customer scenarios, ensuring production-level reliability.
+- **Tech:** Python, Pandas, NumPy, scikit-learn, SHAP, FastAPI, Streamlit, joblib, Matplotlib, Seaborn, Git
+
+
+**4. Telecom Customer Churn Prediction Pipeline**
+- Developed an end-to-end ML pipeline to predict telecom customer churn, achieving 80% accuracy and strong ROC-AUC score across held-out test 
+data. 
+- Conducted EDA and feature engineering on 7,000+ customer records, identifying key churn drivers including tenure, contract type, and monthly charges.
+- Deployed real-time predictions via FastAPI REST API and Streamlit dashboard, enabling interactive decision support for retention teams. 
+- **Tech:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, FastAPI, Streamlit, joblib, Jupyter Notebook, Git 
+
+
+**5. Real Estate Price Estimation Engine**
+- Built a regression-based ML system for real estate price estimation, achieving R-squared=0.92, MAE of 80K, and RMSE of 100K on unseen test data.
+- Implemented consistent preprocessing and feature pipelines using scikit-learn, then deployed a Streamlit web app for real-time inference with 
+zero data leakage. 
+- **Tech:**  Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit, joblib, Jupyter Notebook, Git 
 
 
 ---
