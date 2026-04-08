@@ -122,7 +122,7 @@ real-time recommendations via FastAPI and Streamlit Cloud.
 retrieval at production scale. 
 -  Built and shipped a complete ML architecture — FastAPI backend hosted on Render + Streamlit frontend — demonstrating end-to-end model 
 integration, API orchestration, and cloud deployment.
-**Tech:** Python, Pandas, NumPy, scikit-learn (TF-IDF, cosine similarity), FastAPI, Streamlit, TMDB API, SciPy (sparse matrices), Render Cloud, Git, 
+- **Tech:** Python, Pandas, NumPy, scikit-learn (TF-IDF, cosine similarity), FastAPI, Streamlit, TMDB API, SciPy (sparse matrices), Render Cloud, Git, 
 GitHub
 
 </td>
