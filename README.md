@@ -214,6 +214,10 @@ I specialize in translating complex model outputs into explainable, business-rea
 
 - 💼 **Data Science Job Simulation** — Commonwealth Bank
   
+- 💼 **Introduction to Data Science** — Infosys Springboard
+
+- 🤖 **Introduction to Natural Language Processing** — Infosys Springboard
+  
 - 🤖 **Machine Learning with AI** — Internshala Trainings
   
 - 🐍 **Python: From Basic to Advanced** — Udemy
