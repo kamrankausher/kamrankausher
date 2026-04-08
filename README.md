@@ -3,7 +3,6 @@
 Instructions: Copy this entirely into your README.md 
 It uses an ultra-premium dark purple to black gradient with Gold (#D4AF37) and White highlights!
 -->
-
 <div align="center">
   <!-- Waving Header with Black to Purple Gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030008,2b005e,030008&height=250&section=header&text=KAMRAN%20KAUSHER&fontSize=55&fontColor=D4AF37&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Innovator&descAlignY=65&descAlign=50&stroke=D4AF37&strokeWidth=1" width="100%" />
@@ -28,9 +27,9 @@ It uses an ultra-premium dark purple to black gradient with Gold (#D4AF37) and W
 <tr>
 <td width="60%" valign="top">
 
-## 👑 Executive Profile
+## 👑 About
 
-I am a highly motivated **Data Scientist and Machine Learning Engineer** based in Hyderabad. Currently pursuing my B.Tech in Computer Science Engineering (May 2026), my expertise lies in advanced predictive modeling, decision intelligence, and building rigorous end-to-end machine learning systems. 
+I am a highly motivated **Data Scientist and Machine Learning Engineer** based in Hyderabad. Currently pursuing my B.Tech in Computer Science Engineering (April 2026), my expertise lies in advanced predictive modeling, decision intelligence, and building rigorous end-to-end machine learning systems. 
 
 I specialize in translating complex model outputs into explainable, business-ready insights and engineering full-scale applications with real-time inference.
 
@@ -60,14 +59,16 @@ I specialize in translating complex model outputs into explainable, business-rea
 </tr>
 </table>
 
+
 ---
+
 
 ## 🛠️ Technological Arsenal
 
+
 <div align="center">
-  <p style="color: #D4AF37;"><i>Hover or View on Desktop for the 3D Purple/Black Metallic Glass Texture</i></p>
   
-  <br>
+
   <h3>🧠 Data Science, ML & Analytics</h3>
   <img src="https://img.shields.io/badge/Python-2D0854?style=plastic&logo=python&logoColor=D4AF37&labelColor=050010" />
   <img src="https://img.shields.io/badge/PyTorch-2D0854?style=plastic&logo=pytorch&logoColor=FFFFFF&labelColor=050010" />
@@ -104,13 +105,18 @@ I specialize in translating complex model outputs into explainable, business-rea
 </div>
 
 
+
 ---
 
+
 ## 💼 Professional Experience
+
 
 <table align="center" width="100%" style="border:none;">
 <tr>
 <td valign="top" width="50%">
+
+
   
 ### **Machine Learning Intern**
 **Codec Technologies** | _Feb 2026 - Apr 2026_
@@ -131,31 +137,40 @@ I specialize in translating complex model outputs into explainable, business-rea
 </tr>
 </table>
 
+
 ---
 
-## 🚀 Featured Machine Learning Projects
+
+## 🚀 Projects
+
 
 **1. AI Customer Retention Intelligence System**
 - Built a Decision Intelligence ML system predicting churn risk and generating **SHAP-based Explainable AI** recommendations for business teams across 3 risk tiers.
 - Formulated a sophisticated rule-based risk scoring engine integrated into an interactive prediction system.
 - **Tech:** Python, scikit-learn, SHAP, FastAPI, Streamlit, Seaborn.
 
+
 **2. Telecom Customer Churn Prediction Pipeline**
 - Developed an end-to-end classification pipeline detailing churn dynamics over 7,000+ records, achieving **80% accuracy** and a strong ROC-AUC score.
 - Deployed real-time predictions via a robust **FastAPI REST API**, ensuring high-availability decision support.
 - **Tech:** Pandas, scikit-learn, Matplotlib, FastAPI, joblib.
+
 
 **3. Real Estate Price Estimation Engine**
 - Engineered a high-precision regression architecture achieving an **R² of 0.92**, and deeply minimized error variance (MAE of 80K) on unseen data.
 - Enforced strict preprocessing workflows guaranteeing zero data leakage before scaling inference to the web.
 - **Tech:** Scikit-learn, NumPy, Pandas, Streamlit.
 
+
 ---
+
 
 
 ## 📈 Executive Analytics Center
 
+
 <div align="center">
+
   <!-- Glowing Purple/Black 3D Metallic Cylinder Gradient Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=kamrankausher&show_icons=true&bg_color=000000,3A0E74,000000&border_color=D4AF37&title_color=D4AF37&text_color=FFFFFF&icon_color=FFFFFF&hide_border=false&border_radius=10" width="48%" />
   
@@ -177,7 +192,9 @@ I specialize in translating complex model outputs into explainable, business-rea
 </div>
 
 
+
 ---
+
 
 ## 🏆 Honours and Open Source Trophies
 
@@ -185,14 +202,19 @@ I specialize in translating complex model outputs into explainable, business-rea
   <img src="https://github-profile-trophy.vercel.app/?username=kamrankausher&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
+
 ---
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kamrankausher&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kamrankausher&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankausher&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
 ---
+
 
 ## 📜 Certifications of Excellence
 
@@ -201,14 +223,18 @@ I specialize in translating complex model outputs into explainable, business-rea
 <td width="50%" valign="top">
 
 - 🏅 **Oracle Cloud Instructure 2025 AI Foundations**
+  
 - ☁️ **AWS Cloud Practitioner Essentials**
+  
 - ☁️ **AWS SimuLearn:** Cloud Computing Essentials
 
 </td>
 <td width="50%" valign="top">
 
 - 💼 **Data Science Job Simulation** — Commonwealth Bank
+  
 - 🤖 **Machine Learning with AI** — Internshala Trainings
+  
 - 🐍 **Python: From Basic to Advanced** — Udemy
 
 </td>
@@ -217,20 +243,32 @@ I specialize in translating complex model outputs into explainable, business-rea
 
 ---
 
+
 ## 💡 Developer Inspiration
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </div>
 
----
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
+
+
+## 🐍 Open Source Contribution Grid
+
+<table align="center" width="100%" border="1" bordercolor="#D4AF37" bgcolor="#050014">
+  <tr>
+    <td align="center">
+      <h3 align="center"><font color="#D4AF37">365-Day Contribution Overview</font></h3>
+      <!-- Actual Snake SVG -->
+      <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
+      <br>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 
 ⭐ *Always open to learning, collaboration, and building impactful AI solutions.*
