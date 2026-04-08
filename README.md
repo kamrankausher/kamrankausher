@@ -1,11 +1,6 @@
-<!-- 
-✨ EXECUTIVE PURPLE & GOLD METALLIC THEME
-Instructions: Copy this entirely into your README.md 
-It uses an ultra-premium dark purple to black gradient with Gold (#D4AF37) and White highlights!
--->
 <div align="center">
   <!-- Waving Header with Black to Purple Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030008,2b005e,030008&height=250&section=header&text=KAMRAN%20KAUSHER&fontSize=55&fontColor=D4AF37&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Innovator&descAlignY=65&descAlign=50&stroke=D4AF37&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B1166,5B1166,5B1166&height=250&section=header&text=KAMRAN%20KAUSHER&fontSize=55&fontColor=5B1166&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Innovator&descAlignY=65&descAlign=50&stroke=2A1E36&strokeWidth=0.1" width="100%" />
 
   <!-- High-End Typing Effect -->
   <a href="https://git.io/typing-svg">
@@ -170,13 +165,7 @@ I specialize in translating complex model outputs into explainable, business-rea
 ## 📈 Executive Analytics Center
 
 
-<div align="center">
 
-  <!-- Glowing Purple/Black 3D Metallic Cylinder Gradient Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrankausher&show_icons=true&bg_color=000000,3A0E74,000000&border_color=D4AF37&title_color=D4AF37&text_color=FFFFFF&icon_color=FFFFFF&hide_border=false&border_radius=10" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankausher&layout=compact&bg_color=000000,3A0E74,000000&border_color=D4AF37&title_color=D4AF37&text_color=FFFFFF&hide_border=false&border_radius=10" width="48%" />
-</div>
 
 <br>
 
