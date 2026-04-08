@@ -30,14 +30,16 @@ It uses an ultra-premium dark purple to black gradient with Gold (#D4AF37) and W
 
 ## 👑 Executive Profile
 
-I am a highly motivated **Data Science and Artificial Intelligence Specialist** from India. My expertise lies in advanced machine learning, predictive modeling, and building state-of-the-art generative AI systems. 
+I am a highly motivated **Data Scientist and Machine Learning Engineer** based in Hyderabad. Currently pursuing my B.Tech in Computer Science Engineering (May 2026), my expertise lies in advanced predictive modeling, decision intelligence, and building rigorous end-to-end machine learning systems. 
 
-I don't just train models—I engineer full-scale, robust data pipelines and translate complex theoretical algorithms into high-impact, production-grade enterprise software.
+I specialize in translating complex model outputs into explainable, business-ready insights and engineering full-scale applications with real-time inference.
+
 
 ### 🌟 Core Philosophy
-- **🧠 Architecture First:** I emphasize maintainable, modular, and cleanly structured code over ad-hoc scripts.
-- **⚡ Generative AI Pioneer:** Deep, practical expertise in building RAG systems, semantic search applications, and fine-tuning Large Language Models.
-- **🚀 Data to Deployment:** Expert at orchestrating scalable deployments using Docker, AWS, and modern CI/CD practices to bring AI into the real world.
+- **🧠 Architecture First:** I emphasize maintainable, robust pipelines and cleanly structured code over ad-hoc scripts.
+- **⚡ Explainable AI:** Proven ability to integrate frameworks like SHAP to convert "black box" algorithms into clear, human-readable logic for enterprise stakeholders.
+- **🚀 Data to Deployment:** Expert at orchestrating scalable deployments using modern orchestration tools to bring AI from Jupyter notebooks into production-ready cloud environments.
+
 
 > *"We are moving from a world where we write software to one where we teach it. My mission is to orchestrate that transition with elegance, speed, and precision."*
 
@@ -154,25 +156,26 @@ I don't just train models—I engineer full-scale, robust data pipelines and tra
 ## 📈 Executive Analytics Center
 
 <div align="center">
-  <!-- Glowing Purple and Gold Advanced GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrankausher&show_icons=true&bg_color=050010&border_color=D4AF37&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=false" width="48%" />
+  <!-- Glowing Purple/Black 3D Metallic Cylinder Gradient Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrankausher&show_icons=true&bg_color=000000,3A0E74,000000&border_color=D4AF37&title_color=D4AF37&text_color=FFFFFF&icon_color=FFFFFF&hide_border=false&border_radius=10" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankausher&layout=compact&bg_color=050010&border_color=D4AF37&title_color=D4AF37&text_color=FFFFFF&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankausher&layout=compact&bg_color=000000,3A0E74,000000&border_color=D4AF37&title_color=D4AF37&text_color=FFFFFF&hide_border=false&border_radius=10" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Deep Space Purple and Gold Streak Widget -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrankausher&background=050010&border=D4AF37&dates=FFFFFF&sideLabels=D4AF37&sideNums=FFFFFF&currStreakNum=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=FFFFFF" width="100%" />
+  <!-- 3D Gradient Deep Space Purple and Gold Streak Widget -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrankausher&background=000000,3A0E74,000000&border=D4AF37&dates=FFFFFF&sideLabels=FFFFFF&sideNums=D4AF37&currStreakNum=D4AF37&ring=FFFFFF&fire=D4AF37&currStreakLabel=FFFFFF&hide_border=false&border_radius=10" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Dynamic Activity Wave Line in Gold -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrankausher&bg_color=050010&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=false&border_color=D4AF37" width="100%" />
+  <!-- Dynamic Activity Wave Line in Gold on 3D Deep Metallic Purple -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrankausher&bg_color=190435&color=FFFFFF&line=D4AF37&point=FFFFFF&area=true&hide_border=false&border_color=D4AF37&border_radius=10" width="100%" />
 </div>
+
 
 ---
 
@@ -188,20 +191,6 @@ I don't just train models—I engineer full-scale, robust data pipelines and tra
 ![](https://github-readme-stats.vercel.app/api?username=kamrankausher&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kamrankausher&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankausher&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 💡 Developer Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</div>
 
 ---
 
@@ -228,5 +217,20 @@ I don't just train models—I engineer full-scale, robust data pipelines and tra
 
 ---
 
+## 💡 Developer Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 ⭐ *Always open to learning, collaboration, and building impactful AI solutions.*
