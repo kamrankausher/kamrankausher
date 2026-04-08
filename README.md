@@ -197,17 +197,36 @@ I don't just train models—I engineer full-scale, robust data pipelines and tra
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💡 Developer Inspiration
 
-## 📜 Certifications
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- AWS Cloud Practitioner Essentials
-- AWS SimuLearn: Cloud Computing Essentials
-- Data Science Job Simulation — Commonwealth Bank (Forage)
-- Machine Learning with AI — Internshala Trainings
-- Python: From Basic to Advanced — Udemy
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
 
+---
+
+## 📜 Certifications of Excellence
+
+<table align="center" width="100%" style="border:none;">
+<tr>
+<td width="50%" valign="top">
+
+- 🏅 **Oracle Cloud Instructure 2025 AI Foundations**
+- ☁️ **AWS Cloud Practitioner Essentials**
+- ☁️ **AWS SimuLearn:** Cloud Computing Essentials
+
+</td>
+<td width="50%" valign="top">
+
+- 💼 **Data Science Job Simulation** — Commonwealth Bank
+- 🤖 **Machine Learning with AI** — Internshala Trainings
+- 🐍 **Python: From Basic to Advanced** — Udemy
+
+</td>
+</tr>
+</table>
+
+---
 
 
 ⭐ *Always open to learning, collaboration, and building impactful AI solutions.*
