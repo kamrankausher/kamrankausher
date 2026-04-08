@@ -50,11 +50,11 @@ I specialize in translating complex model outputs into explainable, business-rea
 <a href="https://linkedin.com/in/kamran-kausher-7585b0370"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=plastic&logo=linkedin&logoColor=FFFFFF&labelColor=050010" /></a><br><br>
 <a href="mailto:kamrankausher@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=plastic&logo=gmail&logoColor=D4AF37&labelColor=050010" /></a><br><br>
 <a href="https://github.com/kamrankausher"><img src="https://img.shields.io/badge/GitHub-Open_Source-2D0854?style=plastic&logo=github&logoColor=FFFFFF&labelColor=050010" /></a>
-
-  <br><br>
-  <h3 align="center" style="color:#D4AF37;">Random Inspiration</h3>
-  <img src="https://picsum.photos/600/400" alt="Random Image" width="100%" />
-
+ 
+ 
+ <br><br>
+  <h3 align="center" style="color:#D4AF37;">Live Statistics</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamrankausher&theme=synthwave" alt="GitHub Stats" width="200%"  />
 
 </td>
 </tr>
