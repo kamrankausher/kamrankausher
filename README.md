@@ -51,9 +51,10 @@ I specialize in translating complex model outputs into explainable, business-rea
 <a href="mailto:kamrankausher@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=plastic&logo=gmail&logoColor=D4AF37&labelColor=050010" /></a><br><br>
 <a href="https://github.com/kamrankausher"><img src="https://img.shields.io/badge/GitHub-Open_Source-2D0854?style=plastic&logo=github&logoColor=FFFFFF&labelColor=050010" /></a>
 
-<br><br>
-<h4>🌐 Global Impact</h4>
-<img src="https://visitcount.itsvg.in/api?id=kamrankausher&icon=2&color=6" alt="Profile Views" />
+  <br><br>
+  <h3 align="center" style="color:#D4AF37;">Random Inspiration</h3>
+  <img src="https://picsum.photos/600/400" alt="Random Image" width="100%" />
+
 
 </td>
 </tr>
@@ -205,15 +206,6 @@ I specialize in translating complex model outputs into explainable, business-rea
 
 ---
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kamrankausher&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kamrankausher&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankausher&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
----
 
 
 ## 📜 Certifications of Excellence
