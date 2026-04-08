@@ -63,31 +63,44 @@ I don't just train models—I engineer full-scale, robust data pipelines and tra
 ## 🛠️ Technological Arsenal
 
 <div align="center">
- 
+  <p style="color: #D4AF37;"><i>Hover or View on Desktop for the 3D Purple/Black Metallic Glass Texture</i></p>
   
   <br>
-  <h3>🧠 Data Science & Machine Learning</h3>
+  <h3>🧠 Data Science, ML & Analytics</h3>
   <img src="https://img.shields.io/badge/Python-2D0854?style=plastic&logo=python&logoColor=D4AF37&labelColor=050010" />
   <img src="https://img.shields.io/badge/PyTorch-2D0854?style=plastic&logo=pytorch&logoColor=FFFFFF&labelColor=050010" />
   <img src="https://img.shields.io/badge/TensorFlow-2D0854?style=plastic&logo=tensorflow&logoColor=D4AF37&labelColor=050010" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-2D0854?style=plastic&logo=scikit-learn&logoColor=FFFFFF&labelColor=050010" />
-  <img src="https://img.shields.io/badge/Pandas-2D0854?style=plastic&logo=pandas&logoColor=D4AF37&labelColor=050010" />
-  <img src="https://img.shields.io/badge/NumPy-2D0854?style=plastic&logo=numpy&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Keras-2D0854?style=plastic&logo=keras&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-2D0854?style=plastic&logo=scikit-learn&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Pandas-2D0854?style=plastic&logo=pandas&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/NumPy-2D0854?style=plastic&logo=numpy&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/SciPy-2D0854?style=plastic&logo=scipy&logoColor=FFFFFF&labelColor=050010" />
   <img src="https://img.shields.io/badge/Matplotlib-2D0854?style=plastic&logo=matplotlib&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Plotly-2D0854?style=plastic&logo=plotly&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Anaconda-2D0854?style=plastic&logo=anaconda&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Power_BI-2D0854?style=plastic&logo=powerbi&logoColor=FFFFFF&labelColor=050010" />
 
-  <h3>⚡ Generative AI & LLM Systems</h3>
-  <img src="https://img.shields.io/badge/LangChain-2D0854?style=plastic&logo=langchain&logoColor=FFFFFF&labelColor=050010" />
-  <img src="https://img.shields.io/badge/LlamaIndex-2D0854?style=plastic&logo=fastapi&logoColor=D4AF37&labelColor=050010" />
-  <img src="https://img.shields.io/badge/HuggingFace-2D0854?style=plastic&logo=huggingface&logoColor=FFFFFF&labelColor=050010" />
-  <img src="https://img.shields.io/badge/OpenAI-2D0854?style=plastic&logo=openai&logoColor=D4AF37&labelColor=050010" />
+  <h3>⚡ GenAI & MLOps</h3>
+  <img src="https://img.shields.io/badge/LangChain-2D0854?style=plastic&logo=langchain&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/RAG_Systems-2D0854?style=plastic&logo=databricks&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-2D0854?style=plastic&logo=openai&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/MLflow-2D0854?style=plastic&logo=mlflow&logoColor=FFFFFF&labelColor=050010" />
 
-  <h3>🌩️ Cloud, API & Architecture</h3>
+  <h3>🌩️ Cloud, API & Web Architecture</h3>
   <img src="https://img.shields.io/badge/AWS-2D0854?style=plastic&logo=amazon-aws&logoColor=D4AF37&labelColor=050010" />
-  <img src="https://img.shields.io/badge/Docker-2D0854?style=plastic&logo=docker&logoColor=FFFFFF&labelColor=050010" />
-  <img src="https://img.shields.io/badge/FastAPI-2D0854?style=plastic&logo=fastapi&logoColor=D4AF37&labelColor=050010" />
-  <img src="https://img.shields.io/badge/SQL-2D0854?style=plastic&logo=mysql&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Google_Cloud-2D0854?style=plastic&logo=google-cloud&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Docker-2D0854?style=plastic&logo=docker&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/FastAPI-2D0854?style=plastic&logo=fastapi&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Flask-2D0854?style=plastic&logo=flask&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Flutter-2D0854?style=plastic&logo=flutter&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Render-2D0854?style=plastic&logo=render&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Vercel-2D0854?style=plastic&logo=vercel&logoColor=FFFFFF&labelColor=050010" />
+  <img src="https://img.shields.io/badge/Netlify-2D0854?style=plastic&logo=netlify&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/MySQL-2D0854?style=plastic&logo=mysql&logoColor=FFFFFF&labelColor=050010" />
   <img src="https://img.shields.io/badge/Git-2D0854?style=plastic&logo=git&logoColor=D4AF37&labelColor=050010" />
+  <img src="https://img.shields.io/badge/GitHub-2D0854?style=plastic&logo=github&logoColor=FFFFFF&labelColor=050010" />
 </div>
+
 
 ---
 
