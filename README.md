@@ -116,9 +116,14 @@ I specialize in translating complex model outputs into explainable, business-rea
   
 ### **Machine Learning Intern**
 **Codec Technologies** | _Feb 2026 - Apr 2026_
-- Designed and deployed **CineVerse AI**, a full-stack recommendation engine serving real-time predictions via FastAPI and Streamlit.
-- Engineered a scalable content-based filtering pipeline using **TF-IDF cosine similarity** and sparse matrix operations, significantly optimizing top-N retrieval.
-- Orchestrated complete API integrations and Render cloud deployments.
+- Designed and deployed CineVerse AI, a full-stack movie recommendation system using TF-IDF cosine similarity + TMDB genre discovery, serving 
+real-time recommendations via FastAPI and Streamlit Cloud. 
+- Engineered a scalable content-based filtering pipeline with sparse matrix operations, reducing similarity computation time and enabling efficient top-N 
+retrieval at production scale. 
+-  Built and shipped a complete ML architecture — FastAPI backend hosted on Render + Streamlit frontend — demonstrating end-to-end model 
+integration, API orchestration, and cloud deployment.
+**Tech:** Python, Pandas, NumPy, scikit-learn (TF-IDF, cosine similarity), FastAPI, Streamlit, TMDB API, SciPy (sparse matrices), Render Cloud, Git, 
+GitHub
 
 </td>
 <td valign="top" width="50%">
