@@ -246,6 +246,8 @@ zero data leakage.
 - 💼 **Introduction to Data Science** — Infosys Springboard
 
 - 🤖 **Introduction to Natural Language Processing** — Infosys Springboard
+
+- 🤖 **Introduction to Deep Learning** — Infosys Springboard
   
 - 🤖 **Machine Learning with AI** — Internshala Trainings
   
