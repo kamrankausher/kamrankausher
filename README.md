@@ -144,6 +144,7 @@ GitHub
 
 ## 🚀 Projects
 
+
 **1. Stock Price Prediction Dashboard**
 - Built and deployed an end-to-end ML-based stock prediction system achieving R² ≈ 0.89, covering data pipeline, feature engineering, and real-time inference.
 - Developed a real-time interactive dashboard using Streamlit and yfinance, enabling trend analysis and actionable insights with technical indicators.
@@ -157,8 +158,12 @@ GitHub
 - Developed and deployed a production-ready, full-stack architecture, featuring an event-driven FastAPI backend on Render and a premium React/Framer Motion analytics dashboard on Vercel for real-time visualization.
 - **Tech:** Python, LangGraph, Groq API (LLaMA 3), FastAPI, XGBoost, SHAP, React.js (Vite), Framer Motion, Pandas, Scikit-learn, Render, Vercel
   
-  
-**3. AI Customer Retention Intelligence System by Using Generative Ai**
+**3. 🩺 AI Heart Disease Clinical Analyzer**
+- Machine Learning powered web application that predicts the risk of heart disease using clinical parameters and generates a downloadable medical report.
+- Built using **Python, Scikit-Learn and Streamlit**, this system simulates a real clinical decision-support tool used in healthcare environments.
+
+
+**4. AI Customer Retention Intelligence System by Using Generative Ai**
 - Built a Decision Intelligence ML system to assess customer churn risk and generate explainable retention recommendations, covering 3 risk tiers: LOW, 
 MEDIUM, and HIGH..
 -  Designed a rule-based risk scoring engine (0-1 scale) integrated with SHAP-based Explainable AI, enabling business teams to act on model 
@@ -167,7 +172,7 @@ predictions with clear, human-readable reasoning.
 - **Tech:** Python, Pandas, NumPy, scikit-learn, SHAP, FastAPI, Streamlit, joblib, Matplotlib, Seaborn, Git
 
 
-**4. Telecom Customer Churn Prediction Pipeline**
+**5. Telecom Customer Churn Prediction Pipeline**
 - Developed an end-to-end ML pipeline to predict telecom customer churn, achieving 80% accuracy and strong ROC-AUC score across held-out test 
 data. 
 - Conducted EDA and feature engineering on 7,000+ customer records, identifying key churn drivers including tenure, contract type, and monthly charges.
@@ -175,7 +180,7 @@ data.
 - **Tech:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, FastAPI, Streamlit, joblib, Jupyter Notebook, Git 
 
 
-**5. Real Estate Price Estimation Engine**
+**6. Real Estate Price Estimation Engine**
 - Built a regression-based ML system for real estate price estimation, achieving R-squared=0.92, MAE of 80K, and RMSE of 100K on unseen test data.
 - Implemented consistent preprocessing and feature pipelines using scikit-learn, then deployed a Streamlit web app for real-time inference with 
 zero data leakage. 
