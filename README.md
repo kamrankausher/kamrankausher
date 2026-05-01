@@ -141,6 +141,42 @@ GitHub
 
 ---
 
+## 📜 Certifications & Credentials
+
+<div align="center">
+  <p><em>Professional certifications and credentials validating expertise in cutting-edge technologies and methodologies</em></p>
+  <br>
+  
+  <!-- Certificate Display -->
+  <table align="center" style="border:none; width: 100%;">
+    <tr>
+      <td align="center" width="50%">
+        <img src="certificates/certificate1.jpg" width="280" alt="Certificate 1" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(212, 175, 55, 0.2);" />
+        <p><strong>Add Your Certificate Title Here</strong></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="certificates/certificate2.jpg" width="280" alt="Certificate 2" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(212, 175, 55, 0.2);" />
+        <p><strong>Add Your Certificate Title Here</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="certificates/certificate3.jpg" width="280" alt="Certificate 3" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(212, 175, 55, 0.2);" />
+        <p><strong>Add Your Certificate Title Here</strong></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="certificates/certificate4.jpg" width="280" alt="Certificate 4" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(212, 175, 55, 0.2);" />
+        <p><strong>Add Your Certificate Title Here</strong></p>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  <p align="center"><em>🎯 More certifications coming soon...</em></p>
+</div>
+
+---
+
 
 ## 🚀 Projects
 
@@ -244,32 +280,115 @@ zero data leakage.
 
 ## 📜 Certifications of Excellence
 
-<table align="center" width="100%" style="border:none;">
+---
+
+### ☁️ Cloud Certifications
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
 
-- 🏅 **Oracle Cloud Instructure 2025 AI Foundations**
-  
-- ☁️ **AWS Cloud Practitioner Essentials**
-  
-- ☁️ **AWS SimuLearn:** Cloud Computing Essentials
-
+<td align="center" width="25%">
+<a href="assets/certificates/oracle.png">
+<img src="assets/logos/oracle.png" width="30"><br>
+<img src="assets/certificates/oracle.png" width="140"><br>
+<b>Oracle Cloud AI Foundations</b>
+</a>
 </td>
-<td width="50%" valign="top">
 
-- 💼 **Data Science Job Simulation** — Commonwealth Bank
-  
-- 💼 **Introduction to Data Science** — Infosys Springboard
-
-- 🤖 **Introduction to Natural Language Processing** — Infosys Springboard
-
-- 🤖 **Introduction to Deep Learning** — Infosys Springboard
-  
-- 🤖 **Machine Learning with AI** — Internshala Trainings
-  
-- 🐍 **Python: From Basic to Advanced** — Udemy
-
+<td align="center" width="25%">
+<a href="assets/certificates/aws-practitioner.png">
+<img src="assets/logos/aws.png" width="30"><br>
+<img src="assets/certificates/aws-practitioner.png" width="140"><br>
+<b>AWS Cloud Practitioner</b>
+</a>
 </td>
+
+<td align="center" width="25%">
+<a href="assets/certificates/aws-simulearn.png">
+<img src="assets/logos/aws.png" width="30"><br>
+<img src="assets/certificates/aws-simulearn.png" width="140"><br>
+<b>AWS SimuLearn</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+<a href="assets/certificates/ml-ai.png">
+<img src="assets/logos/internshala.png" width="30"><br>
+<img src="assets/certificates/ml-ai.png" width="140"><br>
+<b>Machine Learning with AI</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="assets/certificates/deep-learning.png">
+<img src="assets/logos/infosys.png" width="30"><br>
+<img src="assets/certificates/deep-learning.png" width="140"><br>
+<b>Deep Learning</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="assets/certificates/nlp.png">
+<img src="assets/logos/infosys.png" width="30"><br>
+<img src="assets/certificates/nlp.png" width="140"><br>
+<b>Natural Language Processing</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 📊 Data Science
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+<a href="assets/certificates/data-science-cba.png">
+<img src="assets/logos/cba.png" width="30"><br>
+<img src="assets/certificates/data-science-cba.png" width="140"><br>
+<b>Data Science Simulation</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="assets/certificates/infosys-ds.png">
+<img src="assets/logos/infosys.png" width="30"><br>
+<img src="assets/certificates/infosys-ds.png" width="140"><br>
+<b>Intro to Data Science</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🐍 Programming
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+<a href="assets/certificates/python.png">
+<img src="assets/logos/udemy.png" width="30"><br>
+<img src="assets/certificates/python.png" width="140"><br>
+<b>Python Advanced</b>
+</a>
+</td>
+
 </tr>
 </table>
 
