@@ -314,12 +314,6 @@ zero data leakage.
   <table align="center" width="100%" border="1" bordercolor="#D4AF37" bgcolor="#050014" cellpadding="10">
     <tr>
       <td align="center" width="25%" bordercolor="#D4AF37">
-        <a href="certificates/cba-data-science.png">
-          <img src="certificates/cba-data-science.png" width="160"><br><br>
-          <img src="https://img.shields.io/badge/CommBank-Data_Science_Simulation-2D0854?style=plastic&labelColor=050010" />
-        </a>
-      </td>
-      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/infosys-data-science.png">
           <img src="certificates/infosys-data-science.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/Infosys-Intro_to_Data_Science-2D0854?style=plastic&labelColor=050010" />
@@ -336,6 +330,8 @@ zero data leakage.
           <img src="certificates/python-programming.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/Certificate-Python_Programming-2D0854?style=plastic&logo=python&logoColor=D4AF37&labelColor=050010" />
         </a>
+      </td>
+      <td align="center" width="25%" bordercolor="#D4AF37">
       </td>
     </tr>
   </table>
