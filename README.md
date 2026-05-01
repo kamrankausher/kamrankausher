@@ -287,15 +287,15 @@ zero data leakage.
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="certificates/Screenshot%202026-04-16%20032158.png">
-          <img src="certificates/Screenshot%202026-04-16%20032158.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
+        <a href="certificates/infosys-deep-learning.png">
+          <img src="certificates/infosys-deep-learning.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
           <br><b><font color="#D4AF37">Deep Learning</font></b><br>
           Infosys
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="certificates/Screenshot%202026-04-16%20032221.png">
-          <img src="certificates/Screenshot%202026-04-16%20032221.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
+        <a href="certificates/infosys-nlp.png">
+          <img src="certificates/infosys-nlp.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
           <br><b><font color="#D4AF37">Natural Language Processing</font></b><br>
           Infosys
         </a>
@@ -304,15 +304,15 @@ zero data leakage.
     <!-- Data Science & Analytics -->
     <tr>
       <td align="center" width="33%">
-        <a href="certificates/Screenshot%202026-04-16%20032247.png">
-          <img src="certificates/Screenshot%202026-04-16%20032247.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
+        <a href="certificates/cba-data-science.png">
+          <img src="certificates/cba-data-science.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
           <br><b><font color="#D4AF37">Data Science Simulation</font></b><br>
           Commonwealth Bank
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="certificates/Screenshot%202026-04-16%20032307.png">
-          <img src="certificates/Screenshot%202026-04-16%20032307.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
+        <a href="certificates/infosys-data-science.png">
+          <img src="certificates/infosys-data-science.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
           <br><b><font color="#D4AF37">Intro to Data Science</font></b><br>
           Infosys
         </a>
@@ -328,15 +328,15 @@ zero data leakage.
     <!-- Additional Certifications -->
     <tr>
       <td align="center" width="33%">
-        <a href="certificates/Kamran%20Kausher%20-%20Python.png">
-          <img src="certificates/Kamran%20Kausher%20-%20Python.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
+        <a href="certificates/python-programming.png">
+          <img src="certificates/python-programming.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
           <br><b><font color="#D4AF37">Python Programming</font></b><br>
           Certificate of Excellence
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="certificates/Internship%20Certificate-1.png">
-          <img src="certificates/Internship%20Certificate-1.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
+        <a href="certificates/codec-ml-internship.png">
+          <img src="certificates/codec-ml-internship.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
           <br><b><font color="#D4AF37">Machine Learning Internship</font></b><br>
           Codec Technologies
         </a>
