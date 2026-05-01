@@ -288,25 +288,25 @@ zero data leakage.
 <tr>
 
 <td align="center" width="25%">
-<a href="assets/certificates/oracle.png">
-<img src="assets/logos/oracle.png" width="30"><br>
-<img src="assets/certificates/oracle.png" width="140"><br>
+<a href="certificates/oracle.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/120px-Oracle_Logo.svg.png" width="30"><br>
+<img src="certificates/oracle.png" width="140"><br>
 <b>Oracle Cloud AI Foundations</b>
 </a>
 </td>
 
 <td align="center" width="25%">
-<a href="assets/certificates/aws-practitioner.png">
-<img src="assets/logos/aws.png" width="30"><br>
-<img src="assets/certificates/aws-practitioner.png" width="140"><br>
+<a href="certificates/aws-practitioner.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/120px-Amazon_Web_Services_Logo.svg.png" width="30"><br>
+<img src="certificates/aws-practitioner.png" width="140"><br>
 <b>AWS Cloud Practitioner</b>
 </a>
 </td>
 
 <td align="center" width="25%">
-<a href="assets/certificates/aws-simulearn.png">
-<img src="assets/logos/aws.png" width="30"><br>
-<img src="assets/certificates/aws-simulearn.png" width="140"><br>
+<a href="certificates/aws-simulearn.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/120px-Amazon_Web_Services_Logo.svg.png" width="30"><br>
+<img src="certificates/aws-simulearn.png" width="140"><br>
 <b>AWS SimuLearn</b>
 </a>
 </td>
