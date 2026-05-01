@@ -141,6 +141,42 @@ GitHub
 
 ---
 
+## 📜 Certifications & Credentials
+
+<div align="center">
+  <p><em>Professional certifications and credentials validating expertise in cutting-edge technologies and methodologies</em></p>
+  <br>
+  
+  <!-- Certificate Display -->
+  <table align="center" style="border:none; width: 100%;">
+    <tr>
+      <td align="center" width="50%">
+        <img src="certificates/certificate1.jpg" width="280" alt="Certificate 1" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(212, 175, 55, 0.2);" />
+        <p><strong>Add Your Certificate Title Here</strong></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="certificates/certificate2.jpg" width="280" alt="Certificate 2" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(212, 175, 55, 0.2);" />
+        <p><strong>Add Your Certificate Title Here</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="certificates/certificate3.jpg" width="280" alt="Certificate 3" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(212, 175, 55, 0.2);" />
+        <p><strong>Add Your Certificate Title Here</strong></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="certificates/certificate4.jpg" width="280" alt="Certificate 4" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(212, 175, 55, 0.2);" />
+        <p><strong>Add Your Certificate Title Here</strong></p>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  <p align="center"><em>🎯 More certifications coming soon...</em></p>
+</div>
+
+---
+
 
 ## 🚀 Projects
 
