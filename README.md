@@ -252,96 +252,85 @@ zero data leakage.
   <p><em>Professional certifications validating expertise in cutting-edge technologies and methodologies.</em></p>
   <br>
 
-  <table align="center" style="border-collapse: separate; border-spacing: 20px;">
+  <table align="center" width="100%" border="1" bordercolor="#D4AF37" bgcolor="#050014" cellpadding="20">
     <!-- Cloud Certifications -->
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/oracle.png">
-          <img src="certificates/oracle.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">Oracle Cloud AI Foundations</font></b><br>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/120px-Oracle_Logo.svg.png" width="15"> Oracle
+          <img src="certificates/oracle.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/Oracle_Cloud-AI_Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/aws-practitioner.png">
-          <img src="certificates/aws-practitioner.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">AWS Cloud Practitioner</font></b><br>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/120px-Amazon_Web_Services_Logo.svg.png" width="20"> AWS
+          <img src="certificates/aws-practitioner.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/aws-simulearn.png">
-          <img src="certificates/aws-simulearn.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">AWS SimuLearn</font></b><br>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/120px-Amazon_Web_Services_Logo.svg.png" width="20"> AWS
+          <img src="certificates/aws-simulearn.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/AWS-SimuLearn-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=050010" />
         </a>
       </td>
     </tr>
     <!-- AI, ML & Data Science -->
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/internshala.png">
-          <img src="certificates/internshala.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">Machine Learning with AI</font></b><br>
-          Internshala
+          <img src="certificates/internshala.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/Internshala-Machine_Learning_with_AI-00AEEF?style=for-the-badge&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/infosys-deep-learning.png">
-          <img src="certificates/infosys-deep-learning.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">Deep Learning</font></b><br>
-          Infosys
+          <img src="certificates/infosys-deep-learning.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/Infosys-Deep_Learning-007CC3?style=for-the-badge&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/infosys-nlp.png">
-          <img src="certificates/infosys-nlp.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">Natural Language Processing</font></b><br>
-          Infosys
+          <img src="certificates/infosys-nlp.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/Infosys-Natural_Language_Processing-007CC3?style=for-the-badge&labelColor=050010" />
         </a>
       </td>
     </tr>
     <!-- Data Science & Analytics -->
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/cba-data-science.png">
-          <img src="certificates/cba-data-science.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">Data Science Simulation</font></b><br>
-          Commonwealth Bank
+          <img src="certificates/cba-data-science.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/CommBank-Data_Science_Simulation-FFCC00?style=for-the-badge&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/infosys-data-science.png">
-          <img src="certificates/infosys-data-science.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">Intro to Data Science</font></b><br>
-          Infosys
+          <img src="certificates/infosys-data-science.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/Infosys-Intro_to_Data_Science-007CC3?style=for-the-badge&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/python.jpg">
-          <img src="certificates/python.jpg" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">Python Advanced</font></b><br>
-          Udemy
+          <img src="certificates/python.jpg" width="280"><br><br>
+          <img src="https://img.shields.io/badge/Udemy-Python_Advanced-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=050010" />
         </a>
       </td>
     </tr>
     <!-- Additional Certifications -->
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/python-programming.png">
-          <img src="certificates/python-programming.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">Python Programming</font></b><br>
-          Certificate of Excellence
+          <img src="certificates/python-programming.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/Certificate-Python_Programming-2D0854?style=for-the-badge&logo=python&logoColor=D4AF37&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
         <a href="certificates/codec-ml-internship.png">
-          <img src="certificates/codec-ml-internship.png" width="260" style="border-radius: 12px; border: 2px solid #D4AF37; box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);" /><br>
-          <br><b><font color="#D4AF37">Machine Learning Internship</font></b><br>
-          Codec Technologies
+          <img src="certificates/codec-ml-internship.png" width="280"><br><br>
+          <img src="https://img.shields.io/badge/Codec_Technologies-Machine_Learning_Intern-050010?style=for-the-badge&labelColor=D4AF37&color=050010" />
         </a>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" bordercolor="#D4AF37">
       </td>
     </tr>
   </table>
