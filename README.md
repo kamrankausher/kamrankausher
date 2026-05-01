@@ -253,56 +253,56 @@ zero data leakage.
   <br>
 
   <h3 align="center"><font color="#D4AF37">🌩️ Cloud Architecture</font></h3>
-  <table align="center" width="100%" border="1" bordercolor="#D4AF37" bgcolor="#050014" cellpadding="20">
+  <table align="center" width="100%" border="1" bordercolor="#D4AF37" bgcolor="#050014" cellpadding="10">
     <tr>
-      <td align="center" width="33%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/oracle.png">
-          <img src="certificates/oracle.png" width="240"><br><br>
+          <img src="certificates/oracle.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/Oracle_Cloud-AI_Foundations-2D0854?style=plastic&logo=oracle&logoColor=D4AF37&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="33%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/aws-practitioner.png">
-          <img src="certificates/aws-practitioner.png" width="240"><br><br>
+          <img src="certificates/aws-practitioner.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-2D0854?style=plastic&logo=amazon-aws&logoColor=D4AF37&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="33%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/aws-simulearn.png">
-          <img src="certificates/aws-simulearn.png" width="240"><br><br>
+          <img src="certificates/aws-simulearn.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/AWS-SimuLearn-2D0854?style=plastic&logo=amazon-aws&logoColor=D4AF37&labelColor=050010" />
         </a>
+      </td>
+      <td align="center" width="25%" bordercolor="#D4AF37">
       </td>
     </tr>
   </table>
 
   <br>
   <h3 align="center"><font color="#D4AF37">🧠 Machine Learning & AI</font></h3>
-  <table align="center" width="100%" border="1" bordercolor="#D4AF37" bgcolor="#050014" cellpadding="20">
+  <table align="center" width="100%" border="1" bordercolor="#D4AF37" bgcolor="#050014" cellpadding="10">
     <tr>
-      <td align="center" width="50%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/internshala.png">
-          <img src="certificates/internshala.png" width="240"><br><br>
+          <img src="certificates/internshala.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/Internshala-Machine_Learning_with_AI-2D0854?style=plastic&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="50%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/infosys-deep-learning.png">
-          <img src="certificates/infosys-deep-learning.png" width="240"><br><br>
+          <img src="certificates/infosys-deep-learning.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/Infosys-Deep_Learning-2D0854?style=plastic&labelColor=050010" />
         </a>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/infosys-nlp.png">
-          <img src="certificates/infosys-nlp.png" width="240"><br><br>
+          <img src="certificates/infosys-nlp.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/Infosys-Natural_Language_Processing-2D0854?style=plastic&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="50%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/codec-ml-internship.png">
-          <img src="certificates/codec-ml-internship.png" width="240"><br><br>
+          <img src="certificates/codec-ml-internship.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/Codec_Technologies-Machine_Learning_Intern-2D0854?style=plastic&labelColor=050010" />
         </a>
       </td>
@@ -311,31 +311,29 @@ zero data leakage.
 
   <br>
   <h3 align="center"><font color="#D4AF37">📊 Data Science & Programming</font></h3>
-  <table align="center" width="100%" border="1" bordercolor="#D4AF37" bgcolor="#050014" cellpadding="20">
+  <table align="center" width="100%" border="1" bordercolor="#D4AF37" bgcolor="#050014" cellpadding="10">
     <tr>
-      <td align="center" width="50%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/cba-data-science.png">
-          <img src="certificates/cba-data-science.png" width="240"><br><br>
+          <img src="certificates/cba-data-science.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/CommBank-Data_Science_Simulation-2D0854?style=plastic&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="50%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/infosys-data-science.png">
-          <img src="certificates/infosys-data-science.png" width="240"><br><br>
+          <img src="certificates/infosys-data-science.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/Infosys-Intro_to_Data_Science-2D0854?style=plastic&labelColor=050010" />
         </a>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/python.jpg">
-          <img src="certificates/python.jpg" width="240"><br><br>
+          <img src="certificates/python.jpg" width="160"><br><br>
           <img src="https://img.shields.io/badge/Udemy-Python_Advanced-2D0854?style=plastic&logo=udemy&logoColor=D4AF37&labelColor=050010" />
         </a>
       </td>
-      <td align="center" width="50%" bordercolor="#D4AF37">
+      <td align="center" width="25%" bordercolor="#D4AF37">
         <a href="certificates/python-programming.png">
-          <img src="certificates/python-programming.png" width="240"><br><br>
+          <img src="certificates/python-programming.png" width="160"><br><br>
           <img src="https://img.shields.io/badge/Certificate-Python_Programming-2D0854?style=plastic&logo=python&logoColor=D4AF37&labelColor=050010" />
         </a>
       </td>
