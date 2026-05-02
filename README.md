@@ -150,10 +150,10 @@ GitHub
 
 
 **1. 📈 E-commerce Growth Intelligence Platform**
-- Engineered an end-to-end Machine Learning pipeline processing 100,000+ relational transactional records to build complex RFM (Recency, Frequency, Monetary) temporal features for 8,000+ distinct customer profiles.
-- Developed and deployed an automated churn prediction engine using XGBoost and Optuna for aggressive hyperparameter tuning, integrating SHAP values to extract explainable business drivers for non-technical stakeholders.
-- Architected a production-ready, containerized REST API using FastAPI and Docker to serve ML inferences with sub-100ms latency, coupled with a live statistical A/B testing engine to validate campaign conversion lift.
-- **Tech:** Python, FastAPI, XGBoost, Pandas, SQL, Docker, MLflow, Optuna, SHAP, Chart.js
+- Built end-to-end churn prediction system using XGBoost + SHAP on 8,500 customers; achieved AUC-ROC 0.669 with Optuna Bayesian hyperparameter tuning (50 trials) and MLflow experiment tracking.
+-  Engineered A/B testing engine with Chi-Square and Welch's t-test; detected +14.7% email open rate uplift (p<0.001) and +6.0% AOV improvement across 3 controlled experiments on 18,000+ orders.
+-  Designed 12 advanced SQL analytics queries (window functions, CTEs, cohort retention) and deployed FastAPI backend with Docker + GitHub Actions CI/CD pipeline and 20+ pytest tests.
+- **Tech:** Python · XGBoost · SHAP · Optuna · MLflow · FastAPI · SQLite · SciPy · statsmodels · Pandas · NumPy · scikit-learn · Chart.js · Docker · GitHub Actions · Pytest
 
 **2. GitShield — Developer Security Platform**
 - Engineered a local-first pre-commit security system using AST-based static analysis to detect code injection risks 
