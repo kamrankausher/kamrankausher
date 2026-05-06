@@ -152,6 +152,7 @@ GitHub
 -  Designed 12 advanced SQL analytics queries (window functions, CTEs, cohort retention) and deployed FastAPI backend with Docker + GitHub Actions CI/CD pipeline and 20+ pytest tests.
 - **Tech:** Python · XGBoost · SHAP · Optuna · MLflow · FastAPI · SQLite · SciPy · statsmodels · Pandas · NumPy · scikit-learn · Chart.js · Docker · GitHub Actions · Pytest
 
+
 **2. GitShield — Developer Security Platform**
 - Engineered a local-first pre-commit security system using AST-based static analysis to detect code injection risks 
 (eval/exec, shell vulnerabilities) before deployment.
@@ -161,11 +162,12 @@ OpenAI keys) with Shannon Entropy heuristics to flag high-randomness strings as 
 real-time SAST feedback, health scoring (0–100), and interactive mistake-recovery workflows directly inside the IDE. 
 - **Tech:**  Python, Flask, ast, Click, Rich, TypeScript, VS Code Extension API, Shannon Entropy, Regex.
 
+
 **3. ⚡Revion- Real-Time Demand Intelligence & Dynamic Pricing Platform**
 - Built a 12-level hierarchical demand forecasting system on Walmart M5 dataset (42,840 time series) using LightGBM with Tweedie objective, achieving WRMSSE 0.52 and 54.4% RMSE improvement over naive baseline; engineered 16 lag/rolling/calendar features with recursive 28-day multi-step prediction and MLflow experiment tracking.
 -  Engineered a causal promotion impact engine using Difference-in-Differences (OLS + 1,000 bootstrap iterations), isolating a statistically significant +31% sales lift (ATT = +3.15 units/day, p = 0.009) from seasonal noise; paired with a LinUCB contextual bandit pricing optimizer across 9 price arms that learned a +11.8% revenue lift over a -1.5 elasticity demand model.
 -  Deployed end-to-end ML platform spanning 4 paradigms (supervised forecasting, causal inference, RL-bandit, unsupervised anomaly) with Isolation Forest + STL achieving F1 = 0.667 on injected anomalies across 30,490 series with SHAP root-cause attribution; 93/93 pytest cases passing, CI/CD via GitHub Actions + Docker, FastAPI serving 8 endpoints.
-- **Tech:** Python · XGBoost · 
+- **Tech:** Python · LightGBM · scikit-learn · SHAP · statsmodels · SciPy · Pandas · NumPy · MLflow · FastAPI · Streamlit · Docker · GitHub Actions · Pytest · Joblib · Plotly 
   
  
 **4. Stock Price Prediction Dashboard**
@@ -180,6 +182,7 @@ real-time SAST feedback, health scoring (0–100), and interactive mistake-recov
 - Integrated Explainable AI (XAI) within LLM workflows, utilizing XGBoost and SHAP to mathematically extract churn drivers, eliminating "black box" logic and increasing strategy formulation precision via Groq’s LLaMA 3.3.
 - Developed and deployed a production-ready, full-stack architecture, featuring an event-driven FastAPI backend on Render and a premium React/Framer Motion analytics dashboard on Vercel for real-time visualization.
 - **Tech:** Python, LangGraph, Groq API (LLaMA 3), FastAPI, XGBoost, SHAP, React.js (Vite), Framer Motion, Pandas, Scikit-learn, Render, Vercel
+
   
 **6. 🩺 AI Heart Disease Clinical Analyzer**
 - Machine Learning powered web application that predicts the risk of heart disease using clinical parameters and generates a downloadable medical report.
