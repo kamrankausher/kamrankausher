@@ -185,9 +185,10 @@ real-time SAST feedback, health scoring (0–100), and interactive mistake-recov
 
   
 **6. 🩺 AI Heart Disease Clinical Analyzer**
-- Machine Learning powered web application that predicts the risk of heart disease using clinical parameters and generates a downloadable medical report.
-- Built using **Python, Scikit-Learn and Streamlit**, this system simulates a real clinical decision-support tool used in healthcare environments.
-
+- Engineered an automated machine learning pipeline to predict heart disease risk, evaluating 7 classifiers. Implemented GridSearchCV with Stratified K-Fold cross-validation for hyperparameter tuning, ultimately selecting a Gradient Boosting model that achieved an 89.7% F1-score and 0.93 AUC-ROC.
+- Developed a robust data preprocessing module featuring automated missing-value imputation and one-hot encoding. Extracted actionable clinical insights by calculating permutation feature importance, successfully identifying ST Slope and Oldpeak as the top predictive indicators of cardiac anomalies.
+- Deployed the predictive model via a scalable Streamlit application with a premium user interface. Integrated ReportLab to dynamically generate downloadable PDF medical reports, delivering real-time clinical decision support and personalized risk-stratified patient recommendations.
+- **Tech:** Python, Scikit-learn, Pandas, NumPy, Streamlit, ReportLab, Joblib
 
 **7. AI Customer Retention Intelligence System by Using Generative Ai**
 - Built a Decision Intelligence ML system to assess customer churn risk and generate explainable retention recommendations, covering 3 risk tiers: LOW, 
