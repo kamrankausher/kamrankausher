@@ -373,6 +373,9 @@ zero data leakage.
 
 
 ---
+<div align="center">
 
+### ⭐ Open to internships, collaborations, and AI engineering opportunities
 
-⭐ *Always open to learning, collaboration, and building impactful AI solutions.*
+</div>
+
