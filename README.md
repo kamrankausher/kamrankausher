@@ -147,9 +147,9 @@ GitHub
 
 
 **1. 📈 E-commerce Growth Intelligence Platform**
-- Built end-to-end churn prediction system using XGBoost + SHAP on 8,500 customers; achieved AUC-ROC 0.669 with Optuna Bayesian hyperparameter tuning (50 trials) and MLflow experiment tracking.
--  Engineered A/B testing engine with Chi-Square and Welch's t-test; detected +14.7% email open rate uplift (p<0.001) and +6.0% AOV improvement across 3 controlled experiments on 18,000+ orders.
--  Designed 12 advanced SQL analytics queries (window functions, CTEs, cohort retention) and deployed FastAPI backend with Docker + GitHub Actions CI/CD pipeline and 20+ pytest tests.
+- Built a leak-free XGBoost churn prediction model on 25K+ e-commerce transactions using temporal train-test split; tuned 10 hyperparameters via Optuna (25 Bayesian trials), achieving 65.9% ROC-AUC with SHAP explainability.
+-  Engineered a statistically rigorous A/B testing framework applying Chi-Square and Welch's t-test across 3 experiments (30K+ simulated samples), with power analysis, MDE calculation, and 95% confidence interval visualization.
+-  Deployed end-to-end analytics platform via FastAPI with SQLite-backed cohort retention, RFM segmentation, and seller performance SQL engines; containerized with Docker and automated CI/CD using GitHub Actions with 28 pytest tests.
 - **Tech:** Python · XGBoost · SHAP · Optuna · MLflow · FastAPI · SQLite · SciPy · statsmodels · Pandas · NumPy · scikit-learn · Chart.js · Docker · GitHub Actions · Pytest
 
 
