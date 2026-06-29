@@ -147,70 +147,46 @@ GitHub
 
 
 **1. 📈 E-commerce Growth Intelligence Platform**
-- Built a leak-free XGBoost churn prediction model on 25K+ e-commerce transactions using temporal train-test split; tuned 10 hyperparameters via Optuna (25 Bayesian trials), achieving 65.9% ROC-AUC with SHAP explainability.
--  Engineered a statistically rigorous A/B testing framework applying Chi-Square and Welch's t-test across 3 experiments (30K+ simulated samples), with power analysis, MDE calculation, and 95% confidence interval visualization.
--  Deployed end-to-end analytics platform via FastAPI with SQLite-backed cohort retention, RFM segmentation, and seller performance SQL engines; containerized with Docker and automated CI/CD using GitHub Actions with 28 pytest tests.
+- Built an end-to-end customer analytics platform with XGBoost churn prediction, A/B testing, cohort analysis, and RFM segmentation, deployed using FastAPI with Dockerized CI/CD.
 - **Tech:** Python · XGBoost · SHAP · Optuna · MLflow · FastAPI · SQLite · SciPy · statsmodels · Pandas · NumPy · scikit-learn · Chart.js · Docker · GitHub Actions · Pytest
 
 
 **2. GitShield — Developer Security Platform**
-- Engineered a local-first pre-commit security system using AST-based static analysis to detect code injection risks 
-(eval/exec, shell vulnerabilities) before deployment.
-- Designed a dual-layer secret detection engine combining 30+ provider-specific regex patterns (AWS, Stripe, GitHub PATs, 
-OpenAI keys) with Shannon Entropy heuristics to flag high-randomness strings as potential undocumented credentials.
-- Built a full VS Code extension with a TypeScript/HTML sidebar UI, bridged to a local Flask backend via IPC — providing 
-real-time SAST feedback, health scoring (0–100), and interactive mistake-recovery workflows directly inside the IDE. 
+- Developed a local-first code security platform that detects vulnerabilities and exposed secrets using AST analysis, entropy heuristics, and a real-time VS Code extension. 
 - **Tech:**  Python, Flask, ast, Click, Rich, TypeScript, VS Code Extension API, Shannon Entropy, Regex.
 
 
 **3. ⚡Revion- Real-Time Demand Intelligence & Dynamic Pricing Platform**
-- Built a 12-level hierarchical demand forecasting system on Walmart M5 dataset (42,840 time series) using LightGBM with Tweedie objective, achieving WRMSSE 0.52 and 54.4% RMSE improvement over naive baseline; engineered 16 lag/rolling/calendar features with recursive 28-day multi-step prediction and MLflow experiment tracking.
--  Engineered a causal promotion impact engine using Difference-in-Differences (OLS + 1,000 bootstrap iterations), isolating a statistically significant +31% sales lift (ATT = +3.15 units/day, p = 0.009) from seasonal noise; paired with a LinUCB contextual bandit pricing optimizer across 9 price arms that learned a +11.8% revenue lift over a -1.5 elasticity demand model.
--  Deployed end-to-end ML platform spanning 4 paradigms (supervised forecasting, causal inference, RL-bandit, unsupervised anomaly) with Isolation Forest + STL achieving F1 = 0.667 on injected anomalies across 30,490 series with SHAP root-cause attribution; 93/93 pytest cases passing, CI/CD via GitHub Actions + Docker, FastAPI serving 8 endpoints.
+- Built an enterprise-scale demand forecasting and dynamic pricing platform combining forecasting, causal inference, contextual bandits, and anomaly detection with FastAPI deployment and CI/CD.
 - **Tech:** Python · LightGBM · scikit-learn · SHAP · statsmodels · SciPy · Pandas · NumPy · MLflow · FastAPI · Streamlit · Docker · GitHub Actions · Pytest · Joblib · Plotly 
   
  
 **4. Stock Price Prediction Dashboard**
-- Built and deployed an end-to-end ML-based stock prediction system achieving R² ≈ 0.89, covering data pipeline, feature engineering, and real-time inference.
-- Developed a real-time interactive dashboard using Streamlit and yfinance, enabling trend analysis and actionable insights with technical indicators.
-- Engineered a modular, production-ready ML pipeline and deployed it on cloud, demonstrating full-stack ML system design from model to user interface.
+- Built and deployed an ML-powered stock prediction dashboard with real-time market data, feature engineering, interactive visualization, and cloud deployment.
 - **Tech:** Python, Scikit-learn, NumPy, Pandas, Streamlit, yfinance.
 
 
 **5. Customer Retention Powered by Multi-Agent AI Orchestration**
-- Engineered an autonomous, multi-agent AI customer retention platform by orchestrating a 5-node LangGraph pipeline with FastAPI, automating risk assessment, policy strategy, and personalized client generation.
-- Integrated Explainable AI (XAI) within LLM workflows, utilizing XGBoost and SHAP to mathematically extract churn drivers, eliminating "black box" logic and increasing strategy formulation precision via Groq’s LLaMA 3.3.
-- Developed and deployed a production-ready, full-stack architecture, featuring an event-driven FastAPI backend on Render and a premium React/Framer Motion analytics dashboard on Vercel for real-time visualization.
+- Developed a multi-agent AI customer retention platform using LangGraph, XGBoost, SHAP, and LLMs to automate churn analysis and personalized retention strategies.
 - **Tech:** Python, LangGraph, Groq API (LLaMA 3), FastAPI, XGBoost, SHAP, React.js (Vite), Framer Motion, Pandas, Scikit-learn, Render, Vercel
 
   
 **6. 🩺 AI Heart Disease Clinical Analyzer**
-- Engineered an automated machine learning pipeline to predict heart disease risk, evaluating 7 classifiers. Implemented GridSearchCV with Stratified K-Fold cross-validation for hyperparameter tuning, ultimately selecting a Gradient Boosting model that achieved an 89.7% F1-score and 0.93 AUC-ROC.
-- Developed a robust data preprocessing module featuring automated missing-value imputation and one-hot encoding. Extracted actionable clinical insights by calculating permutation feature importance, successfully identifying ST Slope and Oldpeak as the top predictive indicators of cardiac anomalies.
-- Deployed the predictive model via a scalable Streamlit application with a premium user interface. Integrated ReportLab to dynamically generate downloadable PDF medical reports, delivering real-time clinical decision support and personalized risk-stratified patient recommendations.
+- Built an ML-powered clinical decision support system that predicts heart disease risk, explains predictions, and generates downloadable patient reports through an interactive web app.
 - **Tech:** Python, Scikit-learn, Pandas, NumPy, Streamlit, ReportLab, Joblib
 
 **7. AI Customer Retention Intelligence System by Using Generative Ai**
-- Built a Decision Intelligence ML system to assess customer churn risk and generate explainable retention recommendations, covering 3 risk tiers: LOW, 
-MEDIUM, and HIGH..
--  Designed a rule-based risk scoring engine (0-1 scale) integrated with SHAP-based Explainable AI, enabling business teams to act on model 
-predictions with clear, human-readable reasoning.
-- Validated system consistency across 10+ realistic customer scenarios, ensuring production-level reliability.
+- Developed an explainable customer churn intelligence system that predicts retention risk and generates actionable business recommendations using SHAP-powered insights.
 - **Tech:** Python, Pandas, NumPy, scikit-learn, SHAP, FastAPI, Streamlit, joblib, Matplotlib, Seaborn, Git
 
 
 **8. Telecom Customer Churn Prediction Pipeline**
-- Developed an end-to-end ML pipeline to predict telecom customer churn, achieving 80% accuracy and strong ROC-AUC score across held-out test 
-data. 
-- Conducted EDA and feature engineering on 7,000+ customer records, identifying key churn drivers including tenure, contract type, and monthly charges.
-- Deployed real-time predictions via FastAPI REST API and Streamlit dashboard, enabling interactive decision support for retention teams. 
+- Built an end-to-end telecom churn prediction pipeline with feature engineering, FastAPI REST APIs, and an interactive Streamlit dashboard for real-time predictions.
 - **Tech:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, FastAPI, Streamlit, joblib, Jupyter Notebook, Git 
 
 
 **9. Real Estate Price Estimation Engine**
-- Built a regression-based ML system for real estate price estimation, achieving R-squared=0.92, MAE of 80K, and RMSE of 100K on unseen test data.
-- Implemented consistent preprocessing and feature pipelines using scikit-learn, then deployed a Streamlit web app for real-time inference with 
-zero data leakage. 
+- Developed a machine learning price estimation system with robust preprocessing pipelines and a Streamlit interface for accurate real-time property valuation.
 - **Tech:**  Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit, joblib, Jupyter Notebook, Git 
 
 
