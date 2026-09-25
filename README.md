@@ -1,12 +1,13 @@
 <div align="center">
   <!-- Waving Header with Black to Purple Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B1166,5B1166,5B1166&height=250&section=header&text=KAMRAN%20KAUSHER&fontSize=55&fontColor=5B1166&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Innovator&descAlignY=65&descAlign=50&stroke=2A1E36&strokeWidth=0.1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B1166,5B1166,5B1166&height=250&section=header&text=KAMRAN%20KAUSHER&fontSize=55&fontColor=5B1166&fontAlignY=40&desc=Generative%20AI%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Innovator&descAlignY=65&descAlign=50&stroke=2A1E36&strokeWidth=0.1" width="100%" />
 
   <!-- High-End Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Machine+Learning+Solutions;Building+State-of-the-Art+GenAI+%26+LLM+Pipelines;Bridging+Theoretical+Research+into+Production;Transforming+Data+Into+Actionable+Intelligence!" alt="Typing SVG" />
   </a>
 </div>
+
 <div align="center">
   <!-- High-End Typing Effect -->
   <a href="https://git.io/typing-svg">
