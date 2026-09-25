@@ -107,85 +107,83 @@ I specialize in translating complex model outputs into explainable, business-rea
 
 ## 💼 Professional Experience
 
-
 <table align="center" width="100%" style="border:none;">
 <tr>
 <td valign="top" width="50%">
 
-
-  
-### **Machine Learning Intern**
-**Codec Technologies** | _Feb 2026 - Apr 2026_
-- Designed and deployed CineVerse AI, a full-stack movie recommendation system using TF-IDF cosine similarity + TMDB genre discovery, serving 
-real-time recommendations via FastAPI and Streamlit Cloud. 
-- Engineered a scalable content-based filtering pipeline with sparse matrix operations, reducing similarity computation time and enabling efficient top-N 
-retrieval at production scale. 
--  Built and shipped a complete ML architecture — FastAPI backend hosted on Render + Streamlit frontend — demonstrating end-to-end model 
-integration, API orchestration, and cloud deployment.
-- **Tech:** Python, Pandas, NumPy, scikit-learn (TF-IDF, cosine similarity), FastAPI, Streamlit, TMDB API, SciPy (sparse matrices), Render Cloud, Git, 
-GitHub
+### **Gen AI Developer**
+**Tobbs India** | _Aug 2026 - Present_
+- Contributing to Python-based LLM application development, including LLM API integration and AI-enabled backend workflows.
+- Supporting retrieval-augmented workflows involving document ingestion, chunking, embeddings, vector retrieval, and source-grounded response generation.
+- Assisting with prompt testing, representative test cases, and response-quality checks focused on factual accuracy and hallucination reduction.
 
 </td>
 <td valign="top" width="50%">
 
-### **Data Science Simulation Participant**
-**Commonwealth Bank (via Forage)** | _Jun 2025 - Jul 2025_
-- Executed structured data analysis, anonymization, and ML-based workflows simulating real-world banking use cases.
-- Modeled complex workflows for highly sensitive financial environments including **fraud detection** and **customer segmentation**.
-- Applied advanced EDA modeling using Pandas and SQL analytics.
+### **Artificial Intelligence Intern**
+**Codec Technologies** | _Feb 2026 - Apr 2026_
+- Developed and deployed a content-based movie recommendation system using Python, TF-IDF, Cosine Similarity, Scikit-learn, and REST APIs, serving recommendations across 40,000+ movies with average response latency below 150 ms.
+- Optimized recommendation inference using SciPy sparse matrices, reducing memory consumption by 60% while improving inference efficiency and scalability.
 
 </td>
 </tr>
 </table>
-
-
 
 ---
 
 
 ## 🚀 Projects
 
+**1. 🧠 Enterprise Policy AI Assistant**
+- Built an end-to-end document question-answering application using Google Gemini API, RAG, semantic search, vector embeddings, and ChromaDB for source-grounded responses.
+- Developed FastAPI REST endpoints for document ingestion, embedding generation, vector indexing, semantic retrieval, and AI inference.
+- Improved response quality through document chunking, retrieval tuning, and source citation; achieved approximately 4.2-second end-to-end response latency.
 
-**1. 📈 E-commerce Growth Intelligence Platform**
+**2. 📊 Tech Job Market Skill-Gap Analyzer**
+- Built an end-to-end data and ML application that analyzes 5,257 English job postings, extracts skills from job descriptions using a custom 200+ skill taxonomy, and compares user skills with market demand.
+- Implemented TF-IDF and binary skill-presence features with a Multinomial Logistic Regression classifier to predict five experience levels; achieved 73.29% test accuracy and 0.9184 macro ROC-AUC.
+- Added interactive Streamlit dashboards for skill demand by role and experience level, personalized skill-gap analysis, and real-time model inference; included pytest-based unit tests and reusable Python modules.
+
+**3. 📈 E-commerce Growth Intelligence Platform**
 - Built an end-to-end customer analytics platform with XGBoost churn prediction, A/B testing, cohort analysis, and RFM segmentation, deployed using FastAPI with Dockerized CI/CD.
 - **Tech:** Python · XGBoost · SHAP · Optuna · MLflow · FastAPI · SQLite · SciPy · statsmodels · Pandas · NumPy · scikit-learn · Chart.js · Docker · GitHub Actions · Pytest
 
 
-**2. GitShield — Developer Security Platform**
+**4. GitShield — Developer Security Platform**
 - Developed a local-first code security platform that detects vulnerabilities and exposed secrets using AST analysis, entropy heuristics, and a real-time VS Code extension. 
 - **Tech:**  Python, Flask, ast, Click, Rich, TypeScript, VS Code Extension API, Shannon Entropy, Regex.
 
 
-**3. ⚡Revion- Real-Time Demand Intelligence & Dynamic Pricing Platform**
+**5. ⚡Revion- Real-Time Demand Intelligence & Dynamic Pricing Platform**
 - Built an enterprise-scale demand forecasting and dynamic pricing platform combining forecasting, causal inference, contextual bandits, and anomaly detection with FastAPI deployment and CI/CD.
 - **Tech:** Python · LightGBM · scikit-learn · SHAP · statsmodels · SciPy · Pandas · NumPy · MLflow · FastAPI · Streamlit · Docker · GitHub Actions · Pytest · Joblib · Plotly 
   
  
-**4. Stock Price Prediction Dashboard**
+**6. Stock Price Prediction Dashboard**
 - Built and deployed an ML-powered stock prediction dashboard with real-time market data, feature engineering, interactive visualization, and cloud deployment.
 - **Tech:** Python, Scikit-learn, NumPy, Pandas, Streamlit, yfinance.
 
 
-**5. Customer Retention Powered by Multi-Agent AI Orchestration**
+**7. Customer Retention Powered by Multi-Agent AI Orchestration**
 - Developed a multi-agent AI customer retention platform using LangGraph, XGBoost, SHAP, and LLMs to automate churn analysis and personalized retention strategies.
 - **Tech:** Python, LangGraph, Groq API (LLaMA 3), FastAPI, XGBoost, SHAP, React.js (Vite), Framer Motion, Pandas, Scikit-learn, Render, Vercel
 
   
-**6. 🩺 AI Heart Disease Clinical Analyzer**
+**8. 🩺 AI Heart Disease Clinical Analyzer**
 - Built an ML-powered clinical decision support system that predicts heart disease risk, explains predictions, and generates downloadable patient reports through an interactive web app.
 - **Tech:** Python, Scikit-learn, Pandas, NumPy, Streamlit, ReportLab, Joblib
 
-**7. AI Customer Retention Intelligence System by Using Generative Ai**
+**9. AI Customer Retention Intelligence System by Using Generative Ai**
 - Developed an explainable customer churn intelligence system that predicts retention risk and generates actionable business recommendations using SHAP-powered insights.
 - **Tech:** Python, Pandas, NumPy, scikit-learn, SHAP, FastAPI, Streamlit, joblib, Matplotlib, Seaborn, Git
 
 
-**8. Telecom Customer Churn Prediction Pipeline**
+**10. Telecom Customer Churn Prediction Pipeline**
 - Built an end-to-end telecom churn prediction pipeline with feature engineering, FastAPI REST APIs, and an interactive Streamlit dashboard for real-time predictions.
 - **Tech:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, FastAPI, Streamlit, joblib, Jupyter Notebook, Git 
 
 
-**9. Real Estate Price Estimation Engine**
+**11. Real Estate Price Estimation Engine**
 - Developed a machine learning price estimation system with robust preprocessing pipelines and a Streamlit interface for accurate real-time property valuation.
 - **Tech:**  Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit, joblib, Jupyter Notebook, Git 
 
