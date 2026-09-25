@@ -24,16 +24,14 @@
 
 ## 👑 About
 
-I am a highly motivated **Data Scientist and Machine Learning Engineer** based in Hyderabad. Currently pursuing my B.Tech in Computer Science Engineering (April 2026), my expertise lies in advanced predictive modeling, decision intelligence, and building rigorous end-to-end machine learning systems. 
+I am a highly motivated **Generative AI Developer and AI Engineer** based in Mumbai. Having completed my B.Tech in Computer Science Engineering (2022 - 2026), my expertise lies in building advanced LLM applications, retrieval-based systems, and rigorous end-to-end machine learning pipelines.
 
 I specialize in translating complex model outputs into explainable, business-ready insights and engineering full-scale applications with real-time inference.
 
-
 ### 🌟 Core Philosophy
+- **⚡ Generative AI Pioneer:** Deep, practical expertise in deploying Retrieval-Augmented Generation (RAG) systems, vector embeddings, and semantic LLMs.
 - **🧠 Architecture First:** I emphasize maintainable, robust pipelines and cleanly structured code over ad-hoc scripts.
-- **⚡ Generative AI Pioneer:**  Deep, practical expertise in deploying RAG systems, vector embeddings, and semantic LLMs.
-- **🚀 Data to Deployment:** Expert at orchestrating scalable deployments using modern orchestration tools to bring AI from Jupyter notebooks into production-ready cloud environments.
-
+- **🚀 Data to Deployment:** Expert at orchestrating scalable deployments using modern frameworks (FastAPI, REST APIs) to bring AI from notebooks into production-ready cloud environments.
 
 > *"We are moving from a world where we write software to one where we teach it. My mission is to orchestrate that transition with elegance, speed, and precision."*
 
